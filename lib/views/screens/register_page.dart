@@ -104,7 +104,7 @@ class _LoginPageState extends State<RegisterPage> {
           TextField(
             autofocus: false,
             decoration: InputDecoration(
-              hintText: 'Full Name',
+              hintText: 'Họ và tên',
               prefixIcon: Container(
                 padding: EdgeInsets.all(12),
                 child: SvgPicture.asset('assets/icons/Profile.svg',
@@ -129,7 +129,7 @@ class _LoginPageState extends State<RegisterPage> {
           TextField(
             autofocus: false,
             decoration: InputDecoration(
-              hintText: 'Username',
+              hintText: 'Tên đăng nhập',
               prefixIcon: Container(
                 padding: EdgeInsets.all(12),
                 child: Text('@',
@@ -184,7 +184,7 @@ class _LoginPageState extends State<RegisterPage> {
             autofocus: false,
             obscureText: true,
             decoration: InputDecoration(
-              hintText: 'Password',
+              hintText: 'Mật khẩu',
               prefixIcon: Container(
                 padding: EdgeInsets.all(12),
                 child: SvgPicture.asset('assets/icons/Lock.svg',
@@ -216,7 +216,7 @@ class _LoginPageState extends State<RegisterPage> {
             autofocus: false,
             obscureText: true,
             decoration: InputDecoration(
-              hintText: 'Repeat Password',
+              hintText: 'Xác nhận mật khẩu',
               prefixIcon: Container(
                 padding: EdgeInsets.all(12),
                 child: SvgPicture.asset('assets/icons/Lock.svg',

@@ -50,7 +50,7 @@ class _ProfilePageState extends State<ProfilePage> {
                 Container(
                   margin: EdgeInsets.only(bottom: 4, top: 14),
                   child: Text(
-                    'Anne Hathaway',
+                    'Nguyễn Văn Hiếu',
                     style: TextStyle(
                         color: Colors.white,
                         fontWeight: FontWeight.w600,
@@ -59,7 +59,7 @@ class _ProfilePageState extends State<ProfilePage> {
                 ),
                 // Username
                 Text(
-                  '@Annah',
+                  '@hieunv',
                   style: TextStyle(
                       color: Colors.white.withOpacity(0.6), fontSize: 14),
                 ),

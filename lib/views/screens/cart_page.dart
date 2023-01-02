@@ -68,7 +68,7 @@ class _CartPageState extends State<CartPage> {
               Flexible(
                 flex: 6,
                 child: Text(
-                  'Thoát',
+                  'Thanh toán',
                   style: TextStyle(
                       color: Colors.white,
                       fontWeight: FontWeight.w600,
@@ -271,7 +271,7 @@ class _CartPageState extends State<CartPage> {
                                   fontFamily: 'poppins')),
                         ],
                       ),
-                      Text('free delivery',
+                      Text('miễn phí',
                           style: TextStyle(
                               color: AppColor.primary,
                               fontWeight: FontWeight.w600)),
@@ -292,7 +292,7 @@ class _CartPageState extends State<CartPage> {
                             Expanded(
                               flex: 4,
                               child: Text(
-                                'Shipping',
+                                'Thời gian',
                                 style: TextStyle(
                                     fontWeight: FontWeight.w600,
                                     color: AppColor.secondary),
@@ -326,7 +326,7 @@ class _CartPageState extends State<CartPage> {
                             Expanded(
                               flex: 4,
                               child: Text(
-                                'Subtotal',
+                                'Tổng',
                                 style: TextStyle(
                                     fontWeight: FontWeight.w600,
                                     color: AppColor.secondary),
@@ -335,7 +335,7 @@ class _CartPageState extends State<CartPage> {
                             Expanded(
                               flex: 4,
                               child: Text(
-                                '4 Items',
+                                '4 món',
                                 textAlign: TextAlign.center,
                                 style: TextStyle(
                                     color: AppColor.secondary.withOpacity(0.7)),
@@ -344,7 +344,7 @@ class _CartPageState extends State<CartPage> {
                             Expanded(
                               flex: 4,
                               child: Text(
-                                'Rp 1,429,000',
+                                'VND 1,429,000',
                                 textAlign: TextAlign.end,
                                 style: TextStyle(
                                     fontWeight: FontWeight.w600,

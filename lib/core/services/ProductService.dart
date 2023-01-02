@@ -19,7 +19,7 @@ var productRawData = [
     'rating': 4.0,
     'description':
         'Mang đến diện mạo mới cho gia đình giày thể thao Waffle, Nike Waffle One cân bằng mọi thứ bạn yêu thích về di sản Nike chạy bằng những cải tiến mới.',
-    'store_name': 'Nike Indonesia',
+    'store_name': 'Nike VietNam',
     'colors': [
       {
         'name': 'black',
@@ -91,7 +91,7 @@ var productRawData = [
     'rating': 4.0,
     'description':
         'Mang đến diện mạo mới cho gia đình giày thể thao Waffle, Nike Waffle One cân bằng mọi thứ bạn yêu thích về di sản Nike chạy bằng những cải tiến mới.',
-    'store_name': 'Nike Indonesia',
+    'store_name': 'Nike VietNam',
     'colors': [
       {
         'name': 'black',
@@ -164,7 +164,7 @@ var productRawData = [
     'rating': 4.0,
     'description':
         'Mang đến diện mạo mới cho gia đình giày thể thao Waffle, Nike Waffle One cân bằng mọi thứ bạn yêu thích về di sản Nike chạy bằng những cải tiến mới.',
-    'store_name': 'Nike Indonesia',
+    'store_name': 'Nike VietNam',
     'colors': [
       {
         'name': 'black',
@@ -236,7 +236,7 @@ var productRawData = [
     'rating': 4.0,
     'description':
         'Mang đến diện mạo mới cho gia đình giày thể thao Waffle, Nike Waffle One cân bằng mọi thứ bạn yêu thích về di sản Nike chạy bằng những cải tiến mới.',
-    'store_name': 'Adidas Indonesia',
+    'store_name': 'Adidas VietNam',
     'colors': [
       {
         'name': 'black',
@@ -310,7 +310,7 @@ var searchedProductRawData = [
     'rating': 4.0,
     'description':
         'Mang đến diện mạo mới cho gia đình giày thể thao Waffle, Nike Waffle One cân bằng mọi thứ bạn yêu thích về di sản Nike chạy bằng những cải tiến mới.',
-    'store_name': 'Nike Indonesia',
+    'store_name': 'Nike VietNam',
     'colors': [
       {
         'name': 'black',
@@ -382,7 +382,7 @@ var searchedProductRawData = [
     'rating': 5.0,
     'description':
         'Mang đến diện mạo mới cho gia đình giày thể thao Waffle, Nike Waffle One cân bằng mọi thứ bạn yêu thích về di sản Nike chạy bằng những cải tiến mới.',
-    'store_name': 'Nike Indonesia',
+    'store_name': 'Nike VietNam',
     'colors': [
       {
         'name': 'black',
@@ -455,7 +455,7 @@ var searchedProductRawData = [
     'rating': 5.0,
     'description':
         'Mang đến diện mạo mới cho gia đình giày thể thao Waffle, Nike Waffle One cân bằng mọi thứ bạn yêu thích về di sản Nike chạy bằng những cải tiến mới.',
-    'store_name': 'Nike Indonesia',
+    'store_name': 'Nike VietNam',
     'colors': [
       {
         'name': 'black',
@@ -529,7 +529,7 @@ var searchedProductRawData = [
     'rating': 4.0,
     'description':
         'Mang đến diện mạo mới cho gia đình giày thể thao Waffle, Nike Waffle One cân bằng mọi thứ bạn yêu thích về di sản Nike chạy bằng những cải tiến mới.',
-    'store_name': 'Nike Indonesia',
+    'store_name': 'Nike VietNam',
     'colors': [
       {
         'name': 'black',
@@ -603,7 +603,7 @@ var searchedProductRawData = [
     'rating': 5.0,
     'description':
         'Mang đến diện mạo mới cho gia đình giày thể thao Waffle, Nike Waffle One cân bằng mọi thứ bạn yêu thích về di sản Nike chạy bằng những cải tiến mới.',
-    'store_name': 'Nike Indonesia',
+    'store_name': 'Nike VietNam',
     'colors': [
       {
         'name': 'black',
@@ -677,7 +677,7 @@ var searchedProductRawData = [
     'rating': 4.0,
     'description':
         'Mang đến diện mạo mới cho gia đình giày thể thao Waffle, Nike Waffle One cân bằng mọi thứ bạn yêu thích về di sản Nike chạy bằng những cải tiến mới.',
-    'store_name': 'Nike Indonesia',
+    'store_name': 'Nike VietNam',
     'colors': [
       {
         'name': 'black',

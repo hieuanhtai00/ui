@@ -33,13 +33,13 @@ var listExploreUpdateItemRawData = [
   {
     'logo_url': 'assets/images/zaralogo.jpg',
     'image': 'assets/images/update1.jpg',
-    'store_name': 'Zara Indonesia',
+    'store_name': 'Zara VietNam',
     'caption': 'Đây là mẫu hàng mới của hãng Zara, mời bạn xem qua',
   },
   {
     'logo_url': 'assets/images/nikelogo.jpg',
     'image': 'assets/images/update2.jpg',
-    'store_name': 'Nike Indonesia',
+    'store_name': 'Nike VietNam',
     'caption': 'Đây là mẫu hàng mới của hãng Nike, mời bạn xem qua',
   },
 ];
